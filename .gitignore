@@ -1,0 +1,20 @@
+# R session artefacts
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Rapp.history
+
+# Data (not redistributed — see data/README.md)
+Data/
+data/*.xlsx
+data/*.rds
+data/*.csv
+
+# Outputs
+output/
+*.pdf
+*.png
+
+# OS
+.DS_Store
